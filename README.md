@@ -1,16 +1,10 @@
-# magic_ball
+# Magic_Ball
 
-A new Flutter application.
+A simple Flutter application based on the OG Magic 8 Ball game.
 
-## Getting Started
+## UI from the App.
+![Magic UI](https://user-images.githubusercontent.com/72657275/119247786-3b615100-bbaa-11eb-92f8-1971a9c23c74.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
